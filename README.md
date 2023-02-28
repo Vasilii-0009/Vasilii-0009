@@ -20,7 +20,7 @@
 
 
 ### Мои контакты
-<a href="https://t.me/morari_009"><img src="/Vasilii-0009/icons8-телеграм-24.png" /></a> <a href="https://profi.ru/backoffice/n.php"><img src="/Vasilii-0009/icons8-линкедин-24.png" /></a> <a href="mailto:morar-2018@bk.ru"><img src="/Vasilii-0009/icons8-почта-24.png"/></a>
+<a href="https://t.me/morari_009"><img src="/icons8-телеграм-24.png" /></a> <a href="https://profi.ru/backoffice/n.php"><img src="/icons8-линкедин-24.png" /></a> <a href="mailto:morar-2018@bk.ru"><img src="/icons8-почта-24.png"/></a>
 
 
 <p align="left"> <a href="https://www.github.com/Vasilii-0009" target="_blank" rel="noreferrer"></a></p>
