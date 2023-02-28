@@ -34,4 +34,4 @@
 
 <b> Решаю задачи на CodeWars</b>
 
-<a href="https://www.codewars.com/users/Vasilii-0009"><img src="https://i.ytimg.com/vi/O7TCs3HeCVo/maxresdefault.jpg?7857057827 " /></a>
+<a href="https://www.codewars.com/users/Vasilii-0009"><img src="https://i.ytimg.com/vi/O7TCs3HeCVo/maxresdefault.jpg?7857057827 " width="492" height="190" /></a>
