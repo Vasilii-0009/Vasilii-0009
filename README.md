@@ -1,15 +1,12 @@
 # Привет 👋 меня зовут Василий.
-**Я начинающий веб-разработчик. Мой путь в IT начался в 2021, когда решил сделать сайт для предприятия (Зеркальной фабрики) на котором работал. С апреля 2022 года прохожу курсы от Яндекс.Практикум, должность в Я.Практикум: Frontend-разработчик (Обучение)** 
-* 🌍 Я живу Москве 
-* ✉️  Вы можете связаться со мной по адресу 
+
 [morar-2018@bk.ru](mailto:morar-2018@bk.ru)
 
-**Цели:**
 * <img src='/icons8-лук-и-стрела-15.png' /> Стремлюсь к работе с настоящими боевыми проектами
 * <img src='/icons8-framework-15.png' /> Освоить новые фреимворки
 * <img src='/icons8-код-15.png' /> Писать чистый и читабильный код
 
-### Наввыки
+### Навыки
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -22,10 +19,12 @@
 </p>
 
 
-### Социальные сети 
+### Мои контакты
+<a href="https://t.me/morari_009"><img src="/Vasilii-0009/icons8-телеграм-24.png" /></a> <a href="https://profi.ru/backoffice/n.php"><img src="/Vasilii-0009/icons8-линкедин-24.png" /></a> <a href="mailto:morar-2018@bk.ru"><img src="/Vasilii-0009/icons8-почта-24.png"/></a>
 
-<p align="left"> <a href="https://www.github.com/Vasilii-0009" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
+<p align="left"> <a href="https://www.github.com/Vasilii-0009" target="_blank" rel="noreferrer"></a></p>
+<!-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> -->
 
 
 <b>Мой статус на GitHub</b>
