@@ -47,9 +47,10 @@
 <a href='mailto:morar-2018@bk.ru'><img src="https://img.shields.io/badge/mail - black?style=for-the-badge&logo=maildotru&logoColor=blue"/></a>
 </p>
 
-#### Решаю задачи на CodeWars
+#### Решаю задачи на CodeWars и LeetСode
 
 <a href="https://www.codewars.com/users/Vasilii-0009"><img src="https://img.shields.io/badge/codewars - black?style=for-the-badge&logo=codewars&logoColor=red"/></a>
+<a href="https://www.codewars.com/users/Vasilii-0009"><img src="https://img.shields.io/badge/leetcode - black?style=for-the-badge&logo=leetcode&logoColor=red"/></a>
 
 #### Мой статус на GitHub
 
